@@ -7,3 +7,5 @@ The chief aim of this project is the analyze the testing results for the given s
 - School per Capita spending
 
 The scope of this analysis to provide useful snapshots of data to both district leaders and specific school personnel. 
+## Results ##
+Initial results are displayed below. Due to a compromise of testing security, follow analyses were performed to adjust the original results. They are specified below. 
