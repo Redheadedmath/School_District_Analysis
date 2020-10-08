@@ -5,4 +5,5 @@ The chief aim of this project is the analyze the testing results for the given s
 - School type: District vs. Charter
 - School size: Small (<1000), Medium (1000-2000), and Large (2000-5000)
 - School per Capita spending
+
 The scope of this analysis to provide useful snapshots of data to both district leaders and specific school personnel. 
