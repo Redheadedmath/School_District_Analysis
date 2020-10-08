@@ -21,4 +21,5 @@ On a district wide level (with 39170 students total), the effects of removing th
 While average math score showed no significant change and average reading score even improved by 0.1%, removing the compromised scores dropped the % passing rates by tenths of percentage points in all 3 categories. 
 - These drops hurt the school's overall standing relatively speaking, causing it to drop from the 2nd ranked school by % Overall Passing, to the 3rd ranked school behind Griffin. 
 ![](Resources/top_five.png) ![](Resources/adj_top_five.png)
-- #Changes by Grade Level#: 
+- **Changes on Scores by Grade Level**: Given that each average for was calculated indpendently for each grade level, substituting *NaN* values for the 9th grades at THS has no impact on any of the scores, save for the dropping of an average for 9th graders. Displayed are the scores by grade levels, and the adjustment made for THS. 
+![](Resources/math_by_grade.png) ![](Resources/reading_by_grade.png)
