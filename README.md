@@ -24,8 +24,8 @@ While average math score showed no significant change and average reading score 
 - **Changes on Scores by Grade Level**: Given that each average for was calculated indpendently for each grade level, substituting *NaN* values for the 9th grades at THS has no impact on any of the scores, save for the dropping of an average for 9th graders. Displayed are the scores by grade levels, and the adjustment made for THS. 
 <p float="middle">
   <img src="/Resources/math_by_grade.png" width="200" />
-  <img src="/Resources/adj_math_by_grade.png" width="200" />
+  <img src="/Resources/adj_math_by_grade.png" width="175" />
   <img src="/Resources/reading_by_grade.png" width="200" /> 
-  <img src="/Resources/adj_reading_by_grade.png" width="200" />
+  <img src="/Resources/adj_reading_by_grade.png" width="175" />
 </p>
 - **Changes on Scores by School Spending**: 
