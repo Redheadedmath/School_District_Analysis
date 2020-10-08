@@ -15,6 +15,6 @@ Initial results are displayed below. Due to a compromise of testing security, fo
 ![](Resources/adj_district_summary.png) <br />
 On a district wide level (with 39170 students total), the effects of removing the 461 9th grade scores from THS are minimal. The greatest change being that the adjusted percent of students passing reading rose by .3%. With the exception of the average reading score which had no significant change, the other values showed an increase by about .1%.  
 - Initial School Summary: <br />
-![](Resources/school_summary.png)
+
 - Adjusted School Summary: <br />
-![](Resources/adj_school_summary.png)
+
