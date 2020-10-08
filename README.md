@@ -17,4 +17,4 @@ On a district wide level (with 39170 students total), the effects of removing th
 - Initial School Summary: <br />
 ![](Resources/school_summary.png)
 - Adjusted School Summary: <br />
-![](Resources/adj_school_summary)
+![](Resources/adj_school_summary.png)
