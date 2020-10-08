@@ -10,6 +10,6 @@ The scope of this analysis to provide useful snapshots of data to both district 
 ## Results ##
 Initial results are displayed below. Due to a compromise of testing security, follow analyses were performed to adjust the original results. They are specified below. 
 - Initial District Summary: <br />
-![](district_summary.png)
+![](resources/district_summary.png)
 - Adjusted District Summary: <br />
 ![](adj_district_summary.png)
