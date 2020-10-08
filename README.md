@@ -31,6 +31,6 @@ While average math score showed no significant change and average reading score 
 
 - **Changes on Scores by School Spending**: Given the scope of the district (which comprises 39170), removing the 461 9th graders from THS did not yield a statistically significant change to the tenths of a percentage point on district scores categorized by per capita spending. Adjusted results are on the left, original on the right. As can be seen, there was no detectable difference given our scope of precision. 
 <p float="middle">
-  <img src="/Resources/adj_spending_summary.png" width="300" />
-  <img src="/Resources/spending_summary.png" width="300" />
+  <img src="/Resources/adj_spending_summary.png" width="375" />
+  <img src="/Resources/spending_summary.png" width="375" />
 </p>
