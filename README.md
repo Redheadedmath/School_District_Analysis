@@ -28,4 +28,4 @@ While average math score showed no significant change and average reading score 
   <img src="/Resources/reading_by_grade.png" width="200" /> 
   <img src="/Resources/adj_reading_by_grade.png" width="200" />
 </p>
-- **Changes on Scores by School Spending**: hb
+- **Changes on Scores by School Spending**: 
