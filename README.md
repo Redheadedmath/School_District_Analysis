@@ -29,7 +29,11 @@ While average math score showed no significant change and average reading score 
   <img src="/Resources/adj_reading_by_grade.png" width="175" />
 </p> 
 
-- **Changes on Scores by School Spending**: Given the scope of the district (which comprises 39170), removing the 461 9th graders from THS did not yield a statistically significant change to the tenths of a percentage point on district scores categorized by per capita spending. Adjusted results are on the left, original on the right. As can be seen, there was no detectable difference given our scope of precision. 
+- **Changes on Scores by School Spending**: Given the scope of the district (which comprises 39170), removing the 461 9th graders from THS did not yield a statistically significant change to the tenths of a percentage point on district scores categorized by per capita spending. Adjusted results are listed first, original second. As can be seen, there was no detectable difference given our scope of precision. 
 ![](Resources/adj_spending_summary.png)
-![](Resources/spending_summary.png)
+![](Resources/spending_summary.png) <br />
+- **Changes on Scores by School Size**: Again, given the scope of the district (which comprises 39170), removing the 461 9th graders from THS did not yield a statistically significant change to the tenths of a percentage point on district scores categorized by school size. Adjusted results are listed first, original second. As can be seen, there was no detectable difference given our scope of precision. 
+![](Resources/adj_size_summary.png) ![](Resources/size_summary.png) <br />
 
+- **Changes on Scores by School Type**: Given the scope of the district (which comprises 39170), removing the 461 9th graders from THS did not yield a statistically significant change to the tenths of a percentage point on district scores categorized by school type. Adjusted results are listed first, original second. As can be seen, there was no detectable difference given our scope of precision. 
+![](Resources/adj_type_summary.png) ![](Resources/type_summary.png) <br />
