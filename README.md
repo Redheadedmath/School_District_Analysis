@@ -20,4 +20,4 @@ On a district wide level (with 39170 students total), the effects of removing th
 ![](Resources/adj_school_summary.png) <br />
 While average math score showed no significant change and average reading score even improved by 0.1%, removing the compromised scores dropped the % passing rates by tenths of percentage points in all 3 categories. 
 - These drops hurt the school's overall standing relatively speaking, causing it to drop from the 2nd ranked school by % Overall Passing, to the 3rd ranked school behind Griffin. 
-![](Resources/top_five.png) ![](Resources/adj_top_five.png)
+
