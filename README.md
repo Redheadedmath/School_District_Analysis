@@ -9,3 +9,7 @@ The chief aim of this project is the analyze the testing results for the given s
 The scope of this analysis to provide useful snapshots of data to both district leaders and specific school personnel. 
 ## Results ##
 Initial results are displayed below. Due to a compromise of testing security, follow analyses were performed to adjust the original results. They are specified below. 
+- Initial District Summary: <br />
+![](district_summary.png)
+- Adjusted District Summary: <br />
+![](adj_district_summary.png)
