@@ -37,3 +37,13 @@ While average math score showed no significant change and average reading score 
 
 - **Changes on Scores by School Type**: Given the scope of the district (which comprises 39170), removing the 461 9th graders from THS did not yield a statistically significant change to the tenths of a percentage point on district scores categorized by school type. Adjusted results are listed first, original second. As can be seen, there was no detectable difference given our scope of precision. 
 ![](Resources/adj_type_summary.png) ![](Resources/type_summary.png) <br />
+
+## Summary ##
+It should be noted that I deliberately did not adjust the school size for THS for analyses that were analyzed at a district level such as the per capita, school size and school type results. Since any prep done by those schools would have been performed for the school at large not anticipating the removal of the 9th grade scores, I decided that it would not be accurate for the districts to see an adjusted analysis as it would be misleading and indicate greater resources were available per student than was the case. <br />
+**Key Changes:**
+1. At the district level, there were no changes on scores by per capita spending. 
+2. At the district level, there were no changes on scores by school size. 
+3. At the district level, there were no changes on scores by school type. 
+- Thus, the analyses later conducted by the district leadership themselves, as well as any school-level analyses, will not have been compromised for any schools other than THS. 
+4. The overall district summary resport showed changes given that it took into consideration 461 less than the original 39170 students. 
+5. Thomas High School lost standing as the 2nd highest in Overall Passing rates. 
